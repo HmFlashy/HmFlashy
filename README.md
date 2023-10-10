@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
-
-Katon.io the new big platform to enhance web 3 integration for everyone
+- 🔭 I’m currently working @copper.co
 
 
 <a href="https://github.com/HmFlashy/HmFlashy">
