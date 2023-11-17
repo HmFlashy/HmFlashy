@@ -4,7 +4,7 @@
 
 
 <a id="stats" href="https://github.com/HmFlashy/HmFlashy">
-  <img align="left" src="https://readme-stats-bknaiubgs-hmflashys-projects.vercel.app/api?username=HmFlashy&count_private=true&show_icons=true&theme=dark" />
+  <img align="left" src="https://readme-stats-bknaiubgs-hmflashys-projects.vercel.app/api?username=HmFlashy" />
 </a>
 <a id="languages" href="https://github.com/HmFlashy/HmFlashy">
   <img src="https://readme-stats-bknaiubgs-hmflashys-projects.vercel.app/api/top-langs/?username=HmFlashy&theme=dark&layout=compact" />
